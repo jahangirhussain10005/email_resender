@@ -135,7 +135,7 @@ Double-check ALLOWED_ORIGINS for correct domains.
 Do not expose SUPABASE_SERVICE_ROLE_KEY outside of Edge Functions.
 
 👨‍💻 Author
-Developed by @ZubairAlltaf
+Developed by @jahangirhussain10005
 Custom Supabase Edge Function integration for AWA.
 
 
